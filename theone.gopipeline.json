@@ -34,6 +34,7 @@
         {
           "name": "up42_job",
           "environment_variables": [],
+          "elastic_profile_id": "Foo",
           "tabs": [],
           "resources": [],
           "artifacts": [],
