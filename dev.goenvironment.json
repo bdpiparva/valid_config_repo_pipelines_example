@@ -1,0 +1,15 @@
+{	
+  "name": "dev",	
+  "environment_variables": [	
+    {	
+      "name": "key1",	
+      "value": "value1"	
+    }	
+  ],	
+  "agents": [	
+    "123"	
+  ],	
+  "pipelines": [	
+    "new"	
+  ]	
+}
