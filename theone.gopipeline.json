@@ -1,6 +1,6 @@
 {
   "group": "first",
-  "name": "TheOne",
+  "name": "New",
   "label_template": "${COUNT}",
   "lock_behavior": "none",
   "environment_variables": [],
@@ -34,7 +34,6 @@
         {
           "name": "up42_job",
           "environment_variables": [],
-          "elastic_profile_id": "Foo",
           "tabs": [],
           "resources": [],
           "artifacts": [],
