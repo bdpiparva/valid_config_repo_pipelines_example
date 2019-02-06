@@ -1,6 +1,6 @@
 {
   "group": "first",
-  "name": "New",
+  "name": "Test",
   "label_template": "${COUNT}",
   "lock_behavior": "none",
   "environment_variables": [],
