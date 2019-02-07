@@ -5,8 +5,5 @@
       "name": "Foo",	
       "value": "xyz"	
     }	
-  ],	
-  "pipelines": [	
-    "new"	
-  ]	
+  ]
 }
