@@ -1,4 +1,5 @@
 GoCD.script {
+  target_version 2
   pipelines {
     pipeline('test-groovy') {
       group = 'first'
