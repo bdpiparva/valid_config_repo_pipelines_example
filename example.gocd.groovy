@@ -1,5 +1,4 @@
 GoCD.script {
-  target_version 2
   pipelines {
     pipeline('test-groovy') {
       group = 'first'
@@ -19,8 +18,6 @@ GoCD.script {
           }
           jobs {
             job('test') {
-              runInstanceCount = '0'
-              timeout = 0
               tasks {
                 exec {
                   commandLine = ['ls', '-alh']
